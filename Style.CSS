@@ -26,7 +26,7 @@
 }
 
 .cover {
-    background-image: url(/Images/СеняГЛ.jpeg);
+    background-image: url(Images/СеняГЛ.jpeg);
     height: 100%;
     position: relative;
     z-index: 1;
@@ -221,7 +221,7 @@ line-height: normal;
 }
 
 .cover-history {
-    background-image: url(/Images/Animal\ Cat\ HD\ Wallpaper.jpg);
+    background-image: url(Images/Animal\ Cat\ HD\ Wallpaper.jpg);
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
